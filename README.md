@@ -1,6 +1,6 @@
-# eYANTRA 2025 — MicroBlaze (MB) Theme Tasks
+# eYANTRA 2025 — Maze Solver Bot (MB) Theme Tasks
 
-This repository contains implementations of the eYRC 2025 MicroBlaze (MB) theme tasks. All tasks are implemented in Verilog HDL and prepared for synthesis with Quartus Prime and RTL simulation with ModelSim. The projects are organized per task and include Verilog sources, testbenches, Quartus project files, and simulation resources.
+This repository contains implementations of the eYRC 2025 Maze Solver Bot (MB) theme tasks. All tasks are implemented in Verilog HDL and prepared for synthesis with Quartus Prime and RTL simulation with ModelSim. The projects are organized per task and include Verilog sources, testbenches, Quartus project files, and simulation resources.
 
 Status: Simulation-focused, tested locally. Hardware deployment (FPGA) optional.
 
